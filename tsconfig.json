@@ -11,6 +11,5 @@
     "skipLibCheck": true
   },
   "types": ["node"],
-  "include": ["./*.js", "src/**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": ["./*.js", "src/**/*.ts"]
 }
